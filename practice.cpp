@@ -7,4 +7,5 @@ int main()
     cout<<"Adding from github";
     unordered_set<int>s;
     s.insert(10);
+    s.insert(20);
 }
